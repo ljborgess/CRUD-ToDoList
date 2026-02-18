@@ -1,0 +1,53 @@
+{
+  "tarefa": [
+    {
+      "id": 1771428919050,
+      "nome": "Lucas Andrade",
+      "descricao": "Realizar a tarefa de casa",
+      "data": "18-02-2026",
+      "concluida": "Concluida"
+    },
+    {
+      "id": 1771429102105,
+      "nome": "Lucas Andrade",
+      "descricao": "Realizar a tarefa de casa",
+      "data": "18-02-2026",
+      "concluida": "Concluida"
+    },
+    {
+      "id": 1771429127950,
+      "nome": "Lucas Andrade",
+      "descricao": "Realizar a tarefa de casa",
+      "data": "18-02-2026",
+      "concluida": "Concluida"
+    },
+    {
+      "id": 1771429163628,
+      "nome": "Lucas Andrade",
+      "descricao": "Realizar a tarefa de casa",
+      "data": "18-02-2026",
+      "concluida": "Concluida"
+    },
+    {
+      "id": 1771429177176,
+      "nome": "Lucas Andrade",
+      "descricao": "Realizar a tarefa de casa",
+      "data": "18-02-2026",
+      "concluida": "Concluida"
+    },
+    {
+      "id": 1771429216841,
+      "nome": "Lucas Andrade",
+      "descricao": "Realizar a tarefa de casa",
+      "data": "18-02-2026",
+      "concluida": "Concluida"
+    },
+    {
+      "id": 1771429329019,
+      "nome": "Lucas Andrade",
+      "descricao": "Realizar a tarefa de casa",
+      "data": "18-02-2026",
+      "concluida": "Concluida"
+    }
+  ]
+}
